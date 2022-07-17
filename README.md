@@ -3,6 +3,9 @@
 ### CoProT -> Competitive Programming Tool
 Narzędzie do competitive programming (budowanie, uruchamianie na testach przykładowych, tworzenie projektów, etc.) napisane w Pythonie
 
+## 
+## [POBIERZ](https://github.com/aspiranek/coprot/releases)
+
 w pliku conf.txt znajduje się konfiguracja według schematu:
 * linia 1 -> CoProT uruchamia się w tej ścieżce
 * ścieżka do pliku wykonywalnego Sublime Text
